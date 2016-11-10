@@ -6,3 +6,4 @@ Git tracks changes of files.
 
 
 My name huanggh1
+Creating a new branch is quick.
